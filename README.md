@@ -1,5 +1,5 @@
 # Awesome Papers
-Paper reading and discussion notes, covering AI frameworks, distributed systems, cluster management, etc.
+Paper reading and summarization, covering AI frameworks, distributed systems, cluster management, etc.  See [issues](https://github.com/AI-Infra-Team/awesome-papers/issues) for all the papers we discussed.
 
 ------
 ## Paper Reading Methodology: the Three-Pass Approach
